@@ -1,4 +1,5 @@
 <h1 align = "center"> :fast_forward: Sthefany Haircare :rewind: </h1>
+<h6 align = "center">(pt-br)</h6>
 
 ## 🖥 Preview
 <p align = "center">

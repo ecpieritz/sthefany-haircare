@@ -3,9 +3,9 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://github.com/ecpieritz/x" width = "702" height = "auto">
-  <img src = "https://github.com/ecpieritz/x" width = "351" height = "auto">
-  <img src = "https://github.com/ecpieritz/x" width = "351" height = "auto">
+  <img src = "https://github.com/ecpieritz/sthefany-haircare/blob/main/img/print-01.jpg?raw=true" width = "700" height = "auto">
+  <img src = "https://github.com/ecpieritz/sthefany-haircare/blob/main/img/print-02.jpg?raw=true" width = "350" height = "auto">
+  <img src = "https://github.com/ecpieritz/sthefany-haircare/blob/main/img/print-03.jpg?raw=true" width = "350" height = "auto">
 </p>
 
 ## 📖 About
